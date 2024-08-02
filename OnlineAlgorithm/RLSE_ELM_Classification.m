@@ -1,4 +1,4 @@
-%% Recursive Least Squares Based Extrame Learning Machine - Nonlinear Regression
+% Recursive Least Squares Based Extrame Learning Machine - Nonlinear Regression
 % Written By: Rasit
 % 09-Mar-2024
 clc,clear all,close all;
